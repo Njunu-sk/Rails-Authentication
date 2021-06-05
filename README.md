@@ -18,5 +18,5 @@ We will demonstrate user authentication without **Devise gem**.
   ``
   rails server
   ``
-* You can in the above document
+* You can follow along in the above document
 * [Rails Authentication](https://www.section.io/engineering-education/how-to-setup-user-authentication-from-scratch-with-rails-6/)
