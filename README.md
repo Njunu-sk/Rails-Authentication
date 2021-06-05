@@ -1,24 +1,22 @@
-# README
+# How to Setup User Authentication from Scratch with Rails 6
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+User authentication is a fundametal feature in the security of web resources.
+We will demonstrate user authentication without **Devise gem**.
 
-Things you may want to cover:
+*To test the app locally*
 
-* Ruby version
+* Clone the repository.
 
-* System dependencies
+* Bundle install to update your Gemfile
+  ``
+  bundle install
+  ``
 
-* Configuration
+* Update *config/environment/developement.rb* with your credentials.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Fire up the server
+  ``
+  rails server
+  ``
+* You can in the above document
+* [Rails Authentication](https://www.section.io/engineering-education/how-to-setup-user-authentication-from-scratch-with-rails-6/)
